@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.card-body{
+    background-color:rgb(0, 0, 0) ;
+}
+
+.cardy{
+    border: 2px solid rgb(133, 206, 49);
+    margin: auto;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+.spinner{
+    color: rgb(44, 39, 39);
+}
