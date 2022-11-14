@@ -2,6 +2,20 @@ header{
     text-align: center;
     
 }
+.about{
+     margin-top: 20px;
+     border: 2px solid rgb(235, 222, 52);
+     border-radius: 5px;
+}
+
+/* .btn{
+    
+   background-color: rgb(235, 222, 52);
+}
+.btn:hover{
+    color: white;
+    background-color: rgb(167, 143, 11);
+ } */
 h1{
     text-align: center;
 }
@@ -13,9 +27,12 @@ body{
 }
 
 .cardy{
-    border: 2px solid rgb(133, 206, 49);
+    /* border: 2px solid rgb(133, 206, 49); */
     margin: auto;
-    border-radius: 5px;
+   
+}
+.card{
+    border: 2px solid rgb(235, 222, 52);
 }
 a{
     text-decoration: none;
